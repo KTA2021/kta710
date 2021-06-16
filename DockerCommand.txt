@@ -1,0 +1,4 @@
+docker exec -it <containerID> powershell
+
+
+docker run -it --net="host" container_name
